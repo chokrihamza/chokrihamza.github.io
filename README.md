@@ -32,7 +32,7 @@ git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [LinkedIn]([https://www.twitter.com/codewithsadee](https://www.linkedin.com/in/hamza-chokri/)).
+If you want to contact me you can reach me at [Linkedin]([https://www.twitter.com/codewithsadee](https://www.linkedin.com/in/hamza-chokri/)).
 
 ## License
 
